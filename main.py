@@ -46,5 +46,6 @@ turtle.penup()
 turtle.goto(50, -50)
 turtle.pendown()
 turtle.write(result, font=("Arial", 14, "normal"))
+turtle.hideturtle()
 
 turtle.done()
